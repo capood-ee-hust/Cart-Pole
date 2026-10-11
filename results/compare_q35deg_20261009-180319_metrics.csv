@@ -1,0 +1,4 @@
+controller,q0_deg,settle_s,peakF_N,xDev_m,qMin_deg,qMax_deg,effort_N2s,fell,wallTime_s,solveMean_ms,solveMax_ms
+LQR,35,NaN,30,0.6484,-18.87,35,55.04,0,134,NaN,NaN
+PID,35,NaN,25.66,0.7489,-22,35,54.76,0,107,NaN,NaN
+MPC,35,NaN,30,0.5974,-19.62,35,62.57,0,89.2,0.128,7.83
